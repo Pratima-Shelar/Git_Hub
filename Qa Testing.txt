@@ -1,2 +1,3 @@
 Hi this is my second branch
 I have succesfully created new barnch
+I 'm using other way
